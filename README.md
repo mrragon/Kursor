@@ -1,3 +1,4 @@
+DEMo:https://lusaxweb.github.io/Kursor/guide/configuration.html#type
 <p align="center">
   <img src="https://raw.githubusercontent.com/lusaxweb/kursor/master/assets/Kursorjs.gif" alt="vuesax" />
 </p>
